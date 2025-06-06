@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "data": [
+        {
+          "title": "iPhone 16 Pro Max 256GB | Chính hãng VN/A",
+          "price": "30.590.000",
+          "sale-price": "34.990.000",
+          "image": "/images/phone.png"
+        }
+      ]
+    }
+  ],
+  "footer": [
+    {
+      "items": [
+        {
+          "title": "Trợ giúp",
+          "list": [
+            {
+              "label": "Liên hệ",
+              "path": "/contact-us"
+            },
+            {
+              "label": "Hỗ trợ",
+              "path": "/help"
+            }
+          ],
+          "copyright": "Copyright..."
+        }
+      ]
+    }
+  ]
+}
